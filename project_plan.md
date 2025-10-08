@@ -62,7 +62,7 @@ According to HW1-1 requirements:
 
 ### Step 5: Deployment
 - Deploy to Streamlit Cloud
-- Verify at public URL (e.g. `https://yourname.streamlit.app/`)
+- Verify at public URL (e.g. `https://autodeploylr.streamlit.app/`)
 
 ---
 
